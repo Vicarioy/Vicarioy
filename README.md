@@ -17,20 +17,20 @@
 
 <div>
 
-I’m <strong>Victor</strong>, a Software Developer & AI Systems Engineer who builds robust, high-performance backends, stateful multi-agent architectures, and zero-hallucination verification engines.
+I am <strong>Victor</strong>, a Software Developer and AI Systems Engineer. I build reliable backend services, machine learning models, and automated multi-agent systems with verified test results.
 
 <br/>
 
-💻 <strong>Core Expertise:</strong> Asynchronous Backend Microservices, Distributed Systems, Machine Learning Pipelines, Stateful Multi-Agent Automation (LangGraph), Quantitative Risk Engines, and Production API Design.
+💻 <strong>Core Skills:</strong> Python backend microservices, distributed systems, machine learning data pipelines, automated agent workflows with LangGraph, event-driven trading ledgers, and REST APIs.
 
-🤗 <strong>Stack of Choice:</strong> Python (FastAPI, PyTorch, Scikit-Learn), TypeScript/JavaScript (Next.js, React), PostgreSQL (Neon Lakebase, pgvector), C (Low-Level Systems), and Event-Driven Asynchronous Architectures.
+🤗 <strong>Main Stack:</strong> Python (FastAPI, PyTorch, Scikit-Learn), TypeScript and JavaScript (Next.js, React), PostgreSQL, SQLite, and C for low-level systems.
 
 <br/>
 
-- 🔭 <strong>What I'm Currently Engineering:</strong> Production multi-agent job routing engines, zero-hallucination truth ledgers, and deterministic algorithmic execution systems.
-- 🌱 <strong>What I'm Currently Mastering:</strong> Distributed state checkpointing, high-throughput asynchronous ledger invariants, and sub-10ms model inference pipelines.
-- 👯 <strong>Collaboration & Roles:</strong> Actively open to global remote roles, engineering partnerships, and mission-critical software systems.
-- 💬 <strong>Ask Me About:</strong> Python backend architecture, LangGraph stateful agents, FastAPI, ML validation pipelines, and quantitative systems!
+- 🔭 <strong>What I am working on:</strong> Multi-agent job matching systems, truth-verified document generation, and deterministic algorithmic execution engines.
+- 🌱 <strong>What I am learning:</strong> Distributed state checkpointing, high-speed asynchronous event loops, and low-latency model inference.
+- 👯 <strong>Open to:</strong> Global remote developer roles, systems engineering, and collaborative software projects.
+- 💬 <strong>Ask me about:</strong> Python, FastAPI, agent workflows, backend design, and machine learning pipelines.
 
 </div>
 
@@ -44,11 +44,13 @@ I’m <strong>Victor</strong>, a Software Developer & AI Systems Engineer who bu
       </p>
       Predicting cholera outbreak probability and spatial risk clusters in resource-constrained environments. <em>Machine learning pipeline integrating satellite climate indices, precipitation anomalies, and geospatial risk layers.</em>
       <br/><br/>
-      <strong>Impact:</strong> Achieved 0.91 AUC in cross-validated regional outbreak forecast windows. — Provided public health agencies with 2-week early lead time for targeted chlorination and medical supply routing.
+      <strong>Impact:</strong> Achieved 0.91 AUC in cross-validated regional outbreak forecast windows. Provided public health agencies with 2-week early lead time for targeted chlorination and medical supply routing.
       <br/><br/>
-      <a href="https://github.com/vicdan/cholera-early-warning">
-        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicarioy&repo=cholera-early-warning&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Cholera Early Warning System"/>
+      <a href="http://127.0.0.1:8000/portfolio/case-studies/cholera-early-warning-system.html">
+        <img src="https://img.shields.io/badge/Architecture-Live%20Telemetry%20%26%20Case%20Study-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Telemetry" />
       </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker" height="28" alt="Project Stack" />
     </td>
     <td>
       <p>
@@ -56,11 +58,13 @@ I’m <strong>Victor</strong>, a Software Developer & AI Systems Engineer who bu
       </p>
       High-frequency algorithmic trade execution and quantitative risk attribution with low latency. <em>FastAPI asynchronous backend, event-driven ledger engine, position sizing rules, and paper trading harness.</em>
       <br/><br/>
-      <strong>Impact:</strong> Sub-15ms order sizing computation and 100% deterministic ledger auditing. — Automated algorithmic strategy validation across multiple asset classes with strict drawdown caps.
+      <strong>Impact:</strong> Sub-15ms order sizing computation and 100% deterministic ledger auditing. Automated algorithmic strategy validation across multiple asset classes with strict drawdown caps.
       <br/><br/>
-      <a href="https://github.com/vicdan/vicquant">
-        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicarioy&repo=vicquant&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Vicquant"/>
+      <a href="http://127.0.0.1:8000/portfolio/case-studies/vicquant.html">
+        <img src="https://img.shields.io/badge/Architecture-Live%20Telemetry%20%26%20Case%20Study-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Telemetry" />
       </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,redis,postgres,c" height="28" alt="Project Stack" />
     </td>
   </tr>
   <tr>
@@ -70,18 +74,20 @@ I’m <strong>Victor</strong>, a Software Developer & AI Systems Engineer who bu
       </p>
       Empowering African developers to bridge skill gaps, match verified remote jobs, and pass strict eligibility filters. <em>LangGraph stateful resumable workflow, zero-hallucination Truth Ledger, and automated application prep.</em>
       <br/><br/>
-      <strong>Impact:</strong> Automated daily ranked opportunities across Tier A/B/C with 0 unverified claims. — Directly bridges talent to global opportunities with human-in-the-loop review.
+      <strong>Impact:</strong> Automated daily ranked opportunities across Tier A/B/C with 0 unverified claims. Directly bridges talent to global opportunities with human-in-the-loop review.
       <br/><br/>
-      <a href="https://github.com/vicdan/skillswap-job-agent">
-        <img width="210" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicarioy&repo=skillswap-job-agent&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Skillswap + Job Agent"/>
+      <a href="http://127.0.0.1:8000/portfolio/case-studies/skillswap-plus-job-agent.html">
+        <img src="https://img.shields.io/badge/Architecture-Live%20Telemetry%20%26%20Case%20Study-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Telemetry" />
       </a>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,nextjs,ts" height="28" alt="Project Stack" />
     </td>
   </tr>
 </table>
 
 <h2 align="center"> My Toolbox & Technical Competencies <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="40" align="middle"/> </h2>
 
-<p align="center">Constantly sharpening my craftsmanship across systems design, machine learning pipelines, and cloud engineering:</p>
+<p align="center">Tools and technologies I use across systems design, machine learning pipelines, and cloud engineering:</p>
 
 <table align="center">
   <tr>
