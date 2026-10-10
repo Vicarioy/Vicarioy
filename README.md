@@ -17,7 +17,7 @@
 
 <div>
 
-I am <strong>Victor</strong>, a Software Developer and AI Systems Engineer. I build reliable backend services, machine learning models, and automated multi-agent systems with verified test results.
+I am <strong>Victor</strong>, a Software Developer and AI Systems Engineer with a B.Tech in Computer Science. I build reliable backend services, machine learning models, and automated multi-agent systems with verified test results.
 
 <br/>
 
